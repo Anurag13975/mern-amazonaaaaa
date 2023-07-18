@@ -156,3 +156,7 @@
    2. show user information
    3. create user update api
    4. update user info
+
+34. Add Sidebar and Search Box
+   1. add sidebar
+   2. add search box
