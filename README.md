@@ -1,6 +1,7 @@
 # MERN AMAZONA
+![amazona](https://github.com/Anurag13975/mern-amazonaaaaa/assets/116947003/1d4e51aa-428f-4178-9fce-cd5d7ccb3979)
 
-# LESSONS
+# STEP BY STEP INSTRUCTIONS
 1. Introduction
 2. Install tools
 3. Create react-app
